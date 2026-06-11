@@ -1,0 +1,52 @@
+TrustShield AI - Login Details
+
+Staff Portal
+User ID: staff
+Password: Trust@123
+Role: KYC Staff
+
+Existing Customer Portal
+User ID: demo.low1
+Password: Trust@123
+Risk Scenario: Low Risk
+
+User ID: demo.low2
+Password: Trust@123
+Risk Scenario: Low Risk
+
+User ID: demo.medium1
+Password: Trust@123
+Risk Scenario: Medium Risk
+
+User ID: demo.medium2
+Password: Trust@123
+Risk Scenario: Medium Risk
+
+User ID: demo.medium3
+Password: Trust@123
+Risk Scenario: Medium Risk
+
+User ID: demo.high1
+Password: Trust@123
+Risk Scenario: High Risk
+
+User ID: demo.high2
+Password: Trust@123
+Risk Scenario: High Risk
+
+User ID: demo.critical1
+Password: Trust@123
+Risk Scenario: Critical Risk
+
+User ID: demo.critical2
+Password: Trust@123
+Risk Scenario: Critical Risk
+
+User ID: demo.critical3
+Password: Trust@123
+Risk Scenario: Critical Risk
+
+Note:
+These login details are for internal demo/testing only.
+Do not display these credentials inside the application UI.
+Do not upload real API keys or passwords to a public GitHub repository.
